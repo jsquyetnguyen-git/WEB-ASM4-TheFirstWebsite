@@ -1,0 +1,176 @@
+
+@media only screen and (max-width:767.98px){
+	.top{
+		display: none;
+	}
+
+	article{
+		margin-left: 10px;
+		margin-right: 15px;
+	}
+	.banner{
+		margin-left: 0;
+		margin-right: 0px;
+	}
+
+    .hover:hover{
+        color:rgb(0, 255, 0)!important;
+        transition: 0.5s;
+    }
+
+	.hover{
+		max-width:63%;
+	}
+
+
+	.navbar{
+		background-color: white;
+	}
+
+	div.collapse ul li a{
+		color: black!important;
+	}
+
+	#se{
+		display:contents;
+
+	}
+	#searchicon{
+		color: black;
+		margin-right: 35px;	
+	}
+	#se{
+		text-decoration: none;
+	}
+
+	.navbar-brand{
+		text-align: center;
+		color: rgb(0, 140, 255)!important;
+	}
+
+	.navbar-toggler{
+		border: 0px;
+		margin-left: 10px;
+	}
+
+	.ABOUT{
+		margin: 0px -15px 40px -15px;
+		padding: 0;
+	}
+
+
+	#ableft,#abright{
+		padding-left: 15px;
+		padding-right: 10px;
+	}
+
+
+	.leftimg{
+		padding-left: 10px;
+		padding-right: 7px;
+	}
+	.rightimg{
+		padding-left: 10px;
+		padding-right: 7px;
+	}
+
+
+
+
+	.leftimg img{
+		width:100%;
+		padding:0px 17px 0 20px;
+	}
+	.rightimg img{
+		width:100%;
+		padding-left: 20px;
+		padding-right: 17px;
+
+	}
+
+	.imgicon1,.imgicon2{
+		width: 4.2rem !important;
+		height: 1.7rem!important;
+		margin-right: 0px;
+	}
+	
+	.our{
+		top:50%;
+		left:50%;
+		right: -10%;
+		transform:translate(-60%,-50%);
+		font-size: 2vw;
+	}
+
+	.textduoi>p{
+		font-size: 2vw;
+		}
+
+	#ourtitle{
+		font-size: 1.5vw;
+	}
+
+    #ptexttren{
+	font-size: 2vw;
+	}
+
+	.edu,.bus{
+		font-size:3.5vw;
+	}
+
+
+	.addborder{
+		border: 1px solid #929292;
+		margin: 10px -10px 10px -10px;
+	}
+
+    #new1,#new2,#new3{
+        padding:0 4px 0 10px;
+    }
+
+	img.thumb{
+		width:100%;
+		height:300px;
+	}
+
+	#message{
+		width: 96%;
+	}
+
+	#address,#categorys,#languae,#sub{
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	
+	#categorys ul,#languae ul{
+		margin-left: -30px;
+		list-style-type: none;
+	}
+
+/* ___________________CONTACT______________________ */
+
+	.ct_list li{
+		list-style-type: none;
+		margin: 20px 0 -10px -32px;
+	}
+
+/* ___________________NEWS______________________ */
+	.newspost_box{
+		margin-top: 20px;
+		margin-left: 12px;
+		width: 96%;
+	}
+	
+/* ______________________________________OUR BUSINESS_______________________________________ */
+
+	.educonsul img{
+		width: 100%;
+		height: auto;
+	}
+	
+	.busconsul img{
+		width: 100%;
+		height: auto;
+	}
+
+}
